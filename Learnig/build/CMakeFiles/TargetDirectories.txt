@@ -1,0 +1,3 @@
+/Users/rudolfvrbensky/Documents/Programing/C/Learnig/build/CMakeFiles/hello.dir
+/Users/rudolfvrbensky/Documents/Programing/C/Learnig/build/CMakeFiles/edit_cache.dir
+/Users/rudolfvrbensky/Documents/Programing/C/Learnig/build/CMakeFiles/rebuild_cache.dir
