@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello_raylib.dir/main.c.o -o hello_raylib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so.4.2.0 
